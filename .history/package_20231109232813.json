@@ -1,8 +1,7 @@
 {
   "name": "send-whatsapp-messages",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://marcusvtalmeida.github.io/digital/",
+  "private": true,
  
   "dependencies": {
     "@emotion/react": "^11.8.2",
