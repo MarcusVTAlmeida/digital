@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": false,
   "homepage": "https://marcusvtalmeida.github.io/digital/",
- 
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
